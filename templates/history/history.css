@@ -1,0 +1,78 @@
+body {
+  background-color: #bc7fcd;
+}
+
+.item {
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center; /* Центрирует содержимое по вертикали */
+  min-height: 400px;
+}
+
+
+.inputs_item {
+  min-width: 300px;
+  max-width: 300px;
+  margin-bottom: 5px;
+  
+}
+
+
+.header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px;
+}
+
+.btn-main {
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+}
+.btn-head {
+  margin-left: 150px;
+}
+
+.button {
+  background-color: #ffebb2;
+}
+
+
+.add {
+  margin-left: auto;
+}
+
+.form {
+  margin-bottom: 7px;
+}
+
+.my-img {
+  width: 400px;
+  height: 300px;
+}
+
+.content-column {
+  margin-left: 40px;
+}
+
+
+.list {
+  margin-right: 40px;
+}
+
+.small-btn {
+  max-width: 40px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+
